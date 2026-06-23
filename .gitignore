@@ -1,0 +1,4 @@
+__pycache__/
+.DS_Store
+*.purrloin-rules.json
+.prowl-rules.json
